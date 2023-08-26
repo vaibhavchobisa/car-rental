@@ -1,20 +1,20 @@
 import Footer from "../components/Footer";
 import HeroPages from "../components/HeroPages";
-import Person1 from "../images/team/1.png";
-import Person2 from "../images/team/2.png";
-import Person3 from "../images/team/3.png";
-import Person4 from "../images/team/4.png";
-import Person5 from "../images/team/5.png";
-import Person6 from "../images/team/6.png";
+import Person1 from "../images/team/1.webp";
+import Person2 from "../images/team/2.webp";
+import Person3 from "../images/team/3.webp";
+import Person4 from "../images/team/4.webp";
+import Person5 from "../images/team/5.webp";
+import Person6 from "../images/team/6.webp";
 
 function Team() {
   const teamPpl = [
-    { img: Person1, name: "Luke Miller", job: "Salesman" },
-    { img: Person2, name: "Michael Diaz", job: "Business Owner" },
-    { img: Person3, name: "Briana Ross", job: "Photographer" },
-    { img: Person4, name: "Lauren Rivera", job: "Car Detailist" },
-    { img: Person5, name: "Martin Rizz", job: "Mechanic" },
-    { img: Person6, name: "Caitlyn Hunt", job: "Menager" },
+    { img: Person1, name: "Chandler Bing", job: "Transponster" },
+    { img: Person2, name: "Monica Geller", job: "Head Chef" },
+    { img: Person3, name: "Dr. Ross Geller", job: "Paleontologist" },
+    { img: Person4, name: "Rachel Greene", job: "Head of Fashion" },
+    { img: Person5, name: "Joseph Tribbiani", job: "Actor" },
+    { img: Person6, name: "Phoebe Buffay", job: "Masseuse" },
   ];
   return (
     <>

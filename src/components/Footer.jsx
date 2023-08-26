@@ -13,29 +13,29 @@ function Footer() {
                 have the perfect car to meet your needs.
               </li>
               <li>
-                <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; (123) -456-789
+                <a href="tel:9460633379">
+                  <i className="fa-solid fa-phone"></i> &nbsp; (+91) 9460633379
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                vaibhav.chobisa@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; carrental@gmail.com
+                  &nbsp; vaibhav.chobisa@gmail.com
                 </a>
               </li>
 
               <li>
                 <a
-                  style={{ fontSize: "14px" }}
+                  style={{ fontSize: "13px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://xpeedstudio.com/"
+                  href="https://vaibhavchobisa.netlify.app/"
                 >
-                  Design by XpeedStudio
+                  &copy; Designed by Vaibhav Chobisa
                 </a>
               </li>
             </ul>

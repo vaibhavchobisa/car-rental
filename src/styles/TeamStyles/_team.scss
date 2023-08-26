@@ -30,6 +30,12 @@
       width: 100%;
     }
 
+    &:nth-child(2) {
+      img {
+        width: 90%;
+      }
+    }
+
     &__img-div {
       width: 100%;
       height: auto;
