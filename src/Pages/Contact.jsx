@@ -16,15 +16,14 @@ function Contact() {
                 years of experience.
               </p>
               <a href="/">
-                <i className="fa-solid fa-phone"></i>&nbsp; (123) 456-7869
+                <i className="fa-solid fa-phone"></i>&nbsp; (+91) 9460633379
               </a>
               <a href="/">
                 <i className="fa-solid fa-envelope"></i>&nbsp;
-                carrental@carmail.com
+                vaibhav.chobisa@gmail.com
               </a>
               <a href="/">
-                <i className="fa-solid fa-location-dot"></i>&nbsp; Belgrade,
-                Serbia
+                <i className="fa-solid fa-location-dot"></i>&nbsp; Bangalore, India
               </a>
             </div>
             <div className="contact-div__form">
@@ -32,7 +31,7 @@ function Contact() {
                 <label>
                   Full Name <b>*</b>
                 </label>
-                <input type="text" placeholder='E.g: "Joe Shmoe"'></input>
+                <input type="text" placeholder='Your Full Name Here'></input>
 
                 <label>
                   Email <b>*</b>
@@ -59,7 +58,7 @@ function Contact() {
               <h2>Book a car by getting in touch with us</h2>
               <span>
                 <i className="fa-solid fa-phone"></i>
-                <h3>(123) 456-7869</h3>
+                <h3>(+91) 9460633379</h3>
               </span>
             </div>
           </div>

@@ -22,11 +22,7 @@ function About() {
               <h3>About Company</h3>
               <h2>You start the engine and your adventure begins</h2>
               <p>
-                Certain but she but shyness why cottage. Guy the put instrument
-                sir entreaties affronting. Pretended exquisite see cordially the
-                you. Weeks quiet do vexed or whose. Motionless if no to
-                affronting imprudence no precaution. My indulged as disposal
-                strongly attended.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam non explicabo ipsum laboriosam alias et perspiciatis molestiae magnam velit sequi, reprehenderit omnis earum dolorum nam fugiat, aperiam quos quaerat ab.
               </p>
               <div className="about-main__text__icons">
                 <div className="about-main__text__icons__box">
@@ -63,7 +59,7 @@ function About() {
             <h2>Book a car by getting in touch with us</h2>
             <span>
               <i className="fa-solid fa-phone"></i>
-              <h3>(123) 456-7869</h3>
+              <h3>(+91) 9460633379</h3>
             </span>
           </div>
         </div>

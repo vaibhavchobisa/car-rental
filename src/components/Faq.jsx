@@ -25,7 +25,6 @@ function Faq() {
               <h2>Frequently Asked Questions</h2>
               <p>
                 Frequently Asked Questions About the Car Rental Booking Process
-                on Our Website: Answers to Common Concerns and Inquiries.
               </p>
             </div>
 
@@ -82,7 +81,7 @@ function Faq() {
                   onClick={() => openQ("q3")}
                   className={`faq-box__question ${getClassQuestion("q3")}`}
                 >
-                  <p>3. How do I find such low rental car prices?</p>
+                  <p>3. How do I find low rental car prices?</p>
                   <i className="fa-solid fa-angle-down"></i>
                 </div>
                 <div
